@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/3b40ef92-9e64-496a-ac23-bae6a62b06d0" />
+
+
+### Name: SHASHANK R
+### Register Number:212223230205
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
